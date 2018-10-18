@@ -1,0 +1,52 @@
+/*首页样式*/
+
+#index_area2{ background:#fff; margin:0 auto; width:1100px;}
+#index_area2 .left{ width:830px;}
+#index_area2 .up_box{ padding:40px 0;}
+#index_area2 .up_box .md{ float:left; }
+#index_area2 .up_box .box{ width:272px;height:200px; background:url(../images/line_sy.png) right top no-repeat;}
+#index_area2 .up_box .fr .box{ background:none;}
+#index_area2 .up_box .fl{ background:url(../images/icon_s1.png) 180px bottom no-repeat; }
+#index_area2 .up_box .md{ background:url(../images/icon_s2.png) 180px bottom no-repeat; }
+#index_area2 .up_box .fr{ background:url(../images/icon_s3.png) 180px bottom no-repeat; }
+#index_area2 .up_box .fl:hover{ background:url(../images/icon_s1_hover.png) 180px bottom no-repeat; }
+#index_area2 .up_box .md:hover{ background:url(../images/icon_s2_hover.png) 180px bottom no-repeat; }
+#index_area2 .up_box .fr:hover{ background:url(../images/icon_s3_hover.png) 180px bottom no-repeat; }
+
+#index_area2 .up_box .box h1{ color:#000; padding-left:40px; display:block; font-size:16px; margin-bottom:10px;}
+#index_area2 .up_box .box ul{ padding:0 40px;}
+#index_area2 .up_box .box ul li{ display:block; float:left; width:50%;}
+#index_area2 .up_box .box ul li a{display:block; font-size:12px; color:#8d8d8d; padding-left:18px; line-height:30px; height:30px; background:url(../images/icon_li_style_li_h.png) left center no-repeat;}
+#index_area2 .up_box .box ul li a:hover{ color:#000;}
+
+#index_area2 .link_box{ position:relative; height:110px;  border-top:1px solid #e7e8ea;}
+#index_area2 .link_box .title{ position:absolute; width:120px;  height:111px; background:#ffb5dc; top:-1px;}
+#index_area2 .link_box .title strong{font-size:14px; color:#fff; padding-top:35px; display:block; text-align:center; margin-bottom:5px;}
+#index_area2 .link_box .title span{font-size:10px; color:#fff; display:block; text-transform:uppercase; text-align:center; margin-bottom:5px;}
+#index_area2 .link_box .content{ height:110px; margin-left:135px; }
+#index_area2 .link_box .content a{ display:block; overflow:hidden; margin:0 1px; float:left;height: 110px;width: 120px;}
+#index_area2 .link_box .content a.a1{background: url("../picture/rong1.png")}
+#index_area2 .link_box .content a.a1:hover{background: url("../picture/rong1_1.png")}
+#index_area2 .link_box .content a.a2{background: url("../picture/rong2.png")}
+#index_area2 .link_box .content a.a2:hover{background: url("../picture/rong2_1.png")}
+#index_area2 .link_box .content a.a3{background: url("../picture/rong3.png")}
+#index_area2 .link_box .content a.a3:hover{background: url("../picture/rong3_1.png")}
+
+#index_area2 .right{ width:270px;}
+#index_area2 .right .up{ height:160px;}
+#index_area2 .right .up a{ position:relative; overflow:hidden;}
+#index_area2 .right .up strong{ font-size:14px; color:#fff; padding-top:30px; display:block; text-align:center; margin-bottom:5px;}
+#index_area2 .right .up span{ font-size:10px; color:#fff; display:block; text-transform:uppercase; text-align:center; margin-bottom:5px;}
+#index_area2 .right .up .img_box{ display:block; position:absolute; bottom:-3px; width:100%;}
+#index_area2 .right .up img{ display:block; margin:0 auto;}
+#index_area2 .right .up a:hover .img_box{ bottom:-1px; }
+#index_area2 .right .up .box1{ background:#3ed0a8; width:50%; float:left; height:160px;}
+#index_area2 .right .up .box2{ background:#e55e4c; width:50%; float:left; height:160px;}
+
+#index_area2 .right .un{ background:#e1b381; height:230px;}
+#index_area2 .right .un .box{ padding:25px;}
+#index_area2 .right .un .title{ color:#fff; font-size:16px; margin-bottom:15px; margin-top:5px;  display:block;}
+#index_area2 .right .un .content a{ color:#fff; font-size:12px; display:block; line-height:24px;}
+#index_area2 .right .un .content a:hover{ text-decoration:underline;}
+#index_area2 .right .un .more{ display:block; border:1px solid #fff; color:#fff; background:url(../images/icon_sj_bs.png) 90px center no-repeat; margin-top:25px;  height:30px; line-height:30px; padding:0 10px; width:90px; font-size:12px;}
+#index_area2 .right .un .more:hover{ background:url(../images/icon_sj.png) 90px center no-repeat #fff; color:#565656;}

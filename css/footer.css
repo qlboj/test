@@ -1,0 +1,4 @@
+#footer { height:70px;  text-align:center;background:#fdf3f8; }
+#footer .copyright p{color:#949497; line-height:70px;  font-size:12px;}
+#footer .copyright a{color:#949497;}
+#footer .copyright a:hover{ color:#4a8cc9;}
